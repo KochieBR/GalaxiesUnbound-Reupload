@@ -1,0 +1,23 @@
+# Blender MTL File: 'e7a6e87200a642fd8e54ff9b97d88a45.blend.blend'
+# Material Count: 2
+
+newmtl Material
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Q:\database\00_Blender_Projects\22_Low_Poly_Assets\Rock1\rock_color.png
+map_Bump Q:\\database\\00_Blender_Projects\\22_Low_Poly_Assets\\Rock1\\rock_normal_map.png
+map_Ns Q:\\database\\00_Blender_Projects\\22_Low_Poly_Assets\\Rock1\\rock_specular.png
+
+newmtl None
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2

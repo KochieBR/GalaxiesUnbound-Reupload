@@ -1,0 +1,46 @@
+# Blender MTL File: 'None'
+# Material Count: 4
+
+newmtl Shrub_A
+Ns 19.607843
+Ka 1.000000 1.000000 1.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Indy-_000\\OneDrive\\Documenten\\Shrubs\\Shrub_A\\Textures\\T_Shrub_A_Dif.PSD
+
+newmtl Shrub_A.001
+Ns 19.607843
+Ka 1.000000 1.000000 1.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Indy-_000\\OneDrive\\Documenten\\Shrubs\\Shrub_A\\Textures\\T_Shrub_A_Dif.PSD
+
+newmtl Shrub_B
+Ns 19.607843
+Ka 1.000000 1.000000 1.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Indy-_000\\OneDrive\\Documenten\\Shrubs\\Shrub_B\\Textures\\T_Alien_Shrub_B_Dif.PSD
+
+newmtl Shrub_B.001
+Ns 19.607843
+Ka 1.000000 1.000000 1.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Indy-_000\\OneDrive\\Documenten\\Shrubs\\Shrub_B\\Textures\\T_Alien_Shrub_B_Dif.PSD

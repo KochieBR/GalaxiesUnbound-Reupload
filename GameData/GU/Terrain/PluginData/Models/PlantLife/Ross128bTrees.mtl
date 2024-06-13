@@ -1,0 +1,53 @@
+# Blender MTL File: 'Sketchfab_2017_01_11_17_36_44.blend'
+# Material Count: 4
+
+newmtl Bark
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump -bm 0.580420 C:\\Users\\Indy-_000\\Desktop\\Belnder\\0_Projects\\Woods\\Tree_NRM.jpg
+map_Kd C:\\Users\\Indy-_000\\Desktop\\Belnder\\0_Projects\\Woods\\Bark_Dif.jpeg
+map_Ks C:\\Users\\Indy-_000\\Desktop\\Belnder\\0_Projects\\Woods\\Bark_Glos.jpeg
+map_Ns C:\\Users\\Indy-_000\\Desktop\\Belnder\\0_Projects\\Woods\\Bark_Glos.jpeg
+
+newmtl Bark_Bark_Dif.jpeg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Indy-_000\Desktop\Belnder\0_Projects\Woods\Bark_Dif.jpeg
+map_Bump -bm 0.580420 C:\\Users\\Indy-_000\\Desktop\\Belnder\\0_Projects\\Woods\\Tree_NRM.jpg
+map_Ks C:\\Users\\Indy-_000\\Desktop\\Belnder\\0_Projects\\Woods\\Bark_Glos.jpeg
+map_Ns C:\\Users\\Indy-_000\\Desktop\\Belnder\\0_Projects\\Woods\\Bark_Glos.jpeg
+
+newmtl Leaf
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\Users\Indy-_000\Desktop\Belnder\0_Projects\Woods\leaves..jpeg
+
+newmtl Plant
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd C:\Users\Indy-_000\Desktop\Belnder\0_Projects\Woods\plant_Dif.png
+map_d C:\\Users\\Indy-_000\\Desktop\\Belnder\\0_Projects\\Woods\\plant_mask_Dif.png
