@@ -1,0 +1,19 @@
+# GU Parts
+## 3.0
+
+* Added reactor power switch to engines: 100%, 25%, 5%. Requires B9PS.
+* Adjusted some parts' positions in CTT, added positions in Kiwi tech tree.
+* Adjusted SRX engines: No longer use ThermalPower. Engines use D+He3 or FP as appropriate. Bell engine split into:
+  * MCF part (original thrust plus 1.5M Isp) 
+  * ICF part (1/3 thrust plus 2.25M Isp); 
+* Adjusted SRX Vernier: Is now an MPDT, uses LH2 + lots of EC.
+* Adjusted tanks to now use B9PS and can choose from: D, He3, D+He3, LH2, FP, Antimatter.
+* Adjusted antenna strengths:
+  * Inferior antenna works up to exactly within Nova Kirbani. (Was previously infinitely OP.)
+  * Superior antenna works up to 1.6x the distance to Nova Kirbani.
+* Localization pass: 
+  * All tanks titles now start with "GU, not PB/ISV", all tags added/fixed, descriptions WIP update.
+  * Replaced "Comm Dish 101-101" with "RA-NKA-S1".
+* Made GU exo scoop part always available.
+  * Allowed it to scan for and harvest LqdDeuterium, LqdHe3, LqdHydrogen in atmo and exo.
+* Added/Restored original Simple Mode where tanks and engines only use LqdHe3, when CRP not installed.
